@@ -11,5 +11,6 @@
   "androidUIVersion": "2.0.0",
   "flutterUIVersion": "2.0.0",
   "expoUIVersion": "2.0.1",
+  "reactUIVersion": "0.0.3",
   "webUIVersion": "2.1.2"
 }
